@@ -64,37 +64,6 @@ El proyecto busca impulsar la investigación open-source en detección SAR media
 
 ---
 
-# 📚 Publicaciones
-
-## 🔥 SARDet-100K — NeurIPS 2024 Spotlight
-
-**SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection**
-
-📄 Paper:
-https://arxiv.org/pdf/2403.06534.pdf
-
----
-
-## 🔥 RSAR — CVPR 2025
-
-**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**
-
-📄 Paper:
-https://arxiv.org/abs/2501.04440
-
-💻 Código:
-https://github.com/zhasion/RSAR
-
----
-
-## 🔥 DenoDet
-
-**DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images**
-
-📄 Paper:
-https://arxiv.org/pdf/2406.02833
-
----
 
 # 🗂️ Dataset
 
