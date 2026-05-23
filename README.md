@@ -108,47 +108,15 @@ El benchmark incluye múltiples categorías:
 
 ---
 
-# 📥 Descarga del Dataset
 
-## Dataset
-
-### Baidu Disk
-
-```bash
-https://pan.baidu.com/s/1dIFOm4V2pM_AjhmkD1-Usw?pwd=SARD
-```
-
-### Kaggle / OneDrive
-
-```bash
-https://www.kaggle.com/datasets/greatbird/sardet-100k
-```
-
----
-
-# 📥 Model Weights
-
-### Baidu Disk
-
-```bash
-https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo
-```
-
-### Kaggle
-
-```bash
-https://www.kaggle.com/models/greatbird/msfa
-```
-
----
 
 # ⚙️ Instalación
 
 ## Clonar Repositorio
 
 ```bash
-git clone https://github.com/zhasion/SARDet_100K.git
-cd SARDet_100K
+git clone https://github.com/isairey/Large-Scale-SAR-Object-Detection-Benchmark-Toolkit.git
+cd Large-Scale-SAR-Object-Detection-Benchmark-Toolkit
 ```
 
 ---
@@ -234,7 +202,7 @@ Incluye:
 # 📂 Estructura del Proyecto
 
 ```bash
-SARDet_100K/
+Large-Scale-SAR-Object-Detection-Benchmark-Toolkit/
 │
 ├── configs/
 ├── datasets/
